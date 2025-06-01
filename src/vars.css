@@ -1,0 +1,18 @@
+:root {
+
+  --color-bg: #27032e;           /* ← Eggplant Plum */
+  --color-text: #ffffff;
+  --color-primary: #280128c7;
+  --color-secondary: #4a075a1a;
+  --color-dark: #2a042b;
+
+
+ /* ← changed from #04152d to black */
+
+:root {
+  /* Fonts */
+  --font-primary: "Outfit", sans-serif;
+  --font-secondary: "Lora", serif;
+}
+
+}

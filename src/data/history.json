@@ -1,0 +1,27 @@
+[
+    {
+      "role": "Customer care intern",
+      "organisation": "Multichoice",
+      "startDate": "Feb, 2024",
+      "endDate": "Sep 2024",
+      "experiences": ["Assissted in resolving customer issues, improving satisfaction." , "Delivering top-notch service to enhance customer satisfaction."],
+      "imageSrc": "history/multichoice.png"
+    },
+    {
+      "role": "Talent acquisition strategist",
+      "organisation": "Premium HR Solution",
+      "startDate": "January, 2025",
+      "endDate": "March, 2025",
+      "experiences": ["Designed an AI Resume Analysis tool using GPT API to provide real time feedback on CVs. ", "Managed recruitment processses, collaborate with hiring managers to understand job requirments and align hiring strategies."],
+      "imageSrc": "history/hrpremium.png"
+    },
+
+    {
+      "role": " Data Sciencientist",
+      "organisation": "British Airways Job Simulation on Forage",
+      "startDate": "April, 2025",
+      "experiences": ["Completed a simulation focussing on how data science is a critical component of British Airways' success ", "Scraped and analysed customer review data to uncover findings" , "Built a predictive model to understand factors that influence buying behavour."],
+      "imageSrc": "history/british.png"
+    }
+    
+  ]
