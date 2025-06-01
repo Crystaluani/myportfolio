@@ -6,7 +6,7 @@ function About() {
     <section className={styles.aboutSection}>
       <h2 className={styles.title}>About Me</h2>
       <p className={styles.description}>
-        I studied Industrial Mathematics and Statistics at Enugu State University.
+         My name is Chukwuani Crystal Chinecherem, i studied Industrial Mathematics and Statistics at Enugu State University.
         I also hold a Data Science certificate. Beyond data, I am a model, actress,
         and TV host, blending analytical skills with creative passion.
       </p>
