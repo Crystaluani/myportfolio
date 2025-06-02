@@ -24,7 +24,7 @@ function PortfolioVideo() {
         >
           <source src="/assets/vidoes/longroad.mp4" type="video/mp4" />
         </video>
-        <p style={{ textAlign: "center", color: "#fff", marginTop: "8px" }}>Long road to equity (short film)</p>
+        <p style={{ textAlign: "center", color: "#fff", marginTop: "8px" }}>Long road to equity short film</p>
       </div>
 
       <div style={{ maxWidth: "300px", borderRadius: "12px", overflow: "hidden", boxShadow: "0 4px 12px rgba(0,0,0,0.2)" }}>
@@ -37,7 +37,7 @@ function PortfolioVideo() {
         >
           <source src="/assets/vidoes/sheerlife.mp4" type="video/mp4" />
         </video>
-        <p style={{ textAlign: "center", color: "#fff", marginTop: "8px" }}>Sheerlife (high school series)</p>
+        <p style={{ textAlign: "center", color: "#fff", marginTop: "8px" }}>Sheerlife high school series</p>
       </div>
     </div>
   );
