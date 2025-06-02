@@ -9,7 +9,7 @@ function PortfolioVideo() {
           playsInline
           style={{ width: "100%", height: "auto", borderRadius: "12px", objectFit: "cover" }}
         >
-          <source src="public/assets/vidoes/headies-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+          <source src="public/assets/vidoes/headies.mp4" type="video/mp4" />
         </video>
         <p style={{ textAlign: "center", color: "#fff", marginTop: "8px" }}>Represnting Vybz TV at Headies Awards.</p>
       </div>
@@ -22,7 +22,7 @@ function PortfolioVideo() {
           playsInline
           style={{ width: "100%", height: "auto", borderRadius: "12px", objectFit: "cover" }}
         >
-          <source src="public/assets/vidoes/longroad-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+          <source src="public/assets/vidoes/longroad.mp4" type="video/mp4" />
         </video>
         <p style={{ textAlign: "center", color: "#fff", marginTop: "8px" }}>Long road to equity(short film)</p>
       </div>
@@ -36,7 +36,7 @@ function PortfolioVideo() {
           playsInline
           style={{ width: "100%", height: "auto", borderRadius: "12px", objectFit: "cover" }}
         >
-          <source src="public\assets\vidoes\sheerlife-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+          <source src="public\assets\vidoes\sheerlife.mp4" type="video/mp4" />
         </video>
         <p style={{ textAlign: "center", color: "#fff", marginTop: "8px" }}>sheerlife(high school series)</p>
       </div>
