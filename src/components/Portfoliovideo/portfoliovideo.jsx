@@ -44,9 +44,3 @@ function PortfolioVideo() {
 }
 
 export default PortfolioVideo;
-
-  );
-}
-
-export default PortfolioVideo;
-
