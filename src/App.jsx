@@ -5,7 +5,7 @@ import  About  from "./components/About/About";
 import { Contact } from "./components/Contact/Contact";
 import { Experience } from "./components/Experience/Experience";
 import { Hero } from "./components/Hero/Hero";
-import { Navbar } from "./components/Navbar/Navbar";
+import { Navbar } from "./components/navbar/Navbar";
 import { Projects } from "./components/Projects/Projects";
 import PortfolioVideo from "./components/Portfoliovideo/portfoliovideo";  // Correct import!
 
